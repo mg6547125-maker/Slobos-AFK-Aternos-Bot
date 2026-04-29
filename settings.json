@@ -1,9 +1,9 @@
 {
-  "name": "pepe",
+  "name": "afk-bot",
   "bot-account": {
     "username": "pepe",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "matiamc178.aternos.me",
